@@ -1,0 +1,22 @@
+Script started on 2022-09-07 20:32:30-04:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="86" LINES="19"]
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142[00m$ ls
+[0m[01;32mHW1[0m  HW1.cpp  README.md  script-2022-09-07.log  time-F.txt
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142[00m$ mkdir E[KEx-1
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142[00m$ mv read[K[K[K[KREADME,[K..md[1Pmd[C[C ex-1[1Px-1Ex-1[C[C[C
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142[00m$ ls 
+[0m[01;34mEx-1[0m  [01;32mHW1[0m  HW1.cpp  script-2022-09-07.log  time-F.txt
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142[00m$ hw[KW[K[Kls mv README.md Ex-1[C[C[C[1P Ex-1[1P Ex-1[1P Ex-1[1P Ex-1[1P Ex-1[1P Ex-1[1P Ex-1[1P Ex-1[1P Ex-1H Ex-1W Ex-11 Ex-1. Ex-1c Ex-1o Ex-1o Ex-1[1P Ex-1[1P Ex-1p Ex-1p Ex-1
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142[00m$ cd ex-1
+bash: cd: ex-1: No such file or directory
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142[00m$ cd ex-1[1Px-1Ex-1
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142/Ex-1[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142/Ex-1[00m$ ls
+HW1.cpp  README.md
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142/Ex-1[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142/Ex-1[00m$ mkdir r[Ksrc
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142/Ex-1[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142/Ex-1[00m$ mkdir srcls[Kcd Ex-1ex-1mv HW1.cpp Ex-1[K[K[K[Ksrc[1P src[1P src[1P src[1P src. srcc srcp srcp src
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142/Ex-1[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142/Ex-1[00m$ ls
+README.md  [0m[01;34msrc[0m
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142/Ex-1[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142/Ex-1[00m$ ls[K[Kls[K[Kcd src
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142/Ex-1/src[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142/Ex-1/src[00m$ ls
+HW1.cpp
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142/Ex-1/src[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142/Ex-1/src[00m$ cd ../..
+]0;sami@DESKTOP-SAMI: //home/sami/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m//home/sami/3142C++/cisc3142[00m$ git
