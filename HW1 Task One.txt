@@ -1,0 +1,19 @@
+Ubuntu Version 20.04 
+https://apps.microsoft.com/store/detail/9NBLGGH4MSV6?hl=en-us&gl=US 
+https://help.ubuntu.com/
+==================================================================
+Git version 2.37.3.windows.1
+https://git-scm.com/download/win
+https://git-scm.com/doc
+==================================================================
+GNU G++ version 9.4.0
+sudo apt install build-essential 
+https://linuxhint.com/install-and-use-g-on-ubuntu/
+==================================================================
+GNU Make version 4.2.1
+sudo apt install build-essential 
+https://linuxhint.com/install-and-use-g-on-ubuntu/
+==================================================================
+VS Code
+https://code.visualstudio.com/download
+https://code.visualstudio.com/docs
