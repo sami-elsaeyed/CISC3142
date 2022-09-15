@@ -1,5 +1,6 @@
   #include <iostream>
      int main(){
+	std::cout << "Running 1.5"<< "\n";
      	int opd1=0;
 	int opd2=0;
 	std::cin>>opd1>>opd2;

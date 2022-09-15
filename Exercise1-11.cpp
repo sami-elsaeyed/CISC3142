@@ -1,6 +1,7 @@
- #include <iostream>
-     int main(){
-     	int limit1;
+#include <iostream>
+int main(){
+	std::cout << "Running 1.11 with a for loop" << "\n"; 
+int limit1;
 	int limit2;
 	std::cout<< "Enter an integer";
 	std::cin >> limit1;
@@ -19,10 +20,9 @@
 	}
 	int x=lowerlimit;
 	int tot=upperlimit-lowerlimit+1;
-	while (tot>0){
+	for(tot;tot>0;--tot){
 		
 		std::cout << x << "\n";
 		x=x+1;
-		tot=tot-1;
        	}
      }
