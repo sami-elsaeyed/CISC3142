@@ -1,4 +1,4 @@
-###**Exercise 2.1: What are the differences between int, long, long long,
+**###Exercise 2.1: What are the differences between int, long, long long,
 and short? Between an unsigned and a signed type? Between a float and
 a double**
 	a)Difference between these types is the minimum size. Short and int are 16 bits long is 32 buts and long long is 64 bits.
@@ -37,6 +37,7 @@ Global and local strings are intially the empty string. Global integer is initia
 	Valid.
 
 ###**Exercise 2.13: What is the value of j in the following program?**
+
 J is 100
 
 ###**Exercise 2.14: Is the following program legal? If so, what values are printed?**
