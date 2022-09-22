@@ -14,4 +14,61 @@ Already up to date.
 [97m[41mE173: 1 more file to edit[?2004h[m
 [32mPress ENTER or type command to continue[?25h[?25l[2;19H[m[1;1H[2L[1;2H# heading
  ## another heading[30;1H[K[30;103H2,19[10CAll[2;19H[?25h[?25l[30;93H:[2;19H[30;93H[K[30;1H:[?2004h[?25hwq![?25l[?2004l"Task" 2L, 32C written[23;2t[23;1t
-[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-3[01
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-3[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-3[00m$ ls
+Task
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-3[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-3[00m$ cd .../[K[K
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ git add *
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ git oc[K[Kcommit -m
+error: switch `m' requires a value
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ git commit -m Taks[K[Ksk1
+[main fabba38] Task1
+ 3 files changed, 151 insertions(+)
+ create mode 100644 Ex-3/Task
+ create mode 100644 script-linux-2022-09-21.log
+ create mode 100644 time-2022-09-21.txt
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ git push 
+Enter passphrase for key '/home/sami/.ssh/id_ed25519': 
+Enumerating objects: 7, done.
+Counting objects:  14% (1/7)Counting objects:  28% (2/7)Counting objects:  42% (3/7)Counting objects:  57% (4/7)Counting objects:  71% (5/7)Counting objects:  85% (6/7)Counting objects: 100% (7/7)Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
+Writing objects:  16% (1/6)Writing objects:  33% (2/6)Writing objects:  50% (3/6)Writing objects:  66% (4/6)Writing objects:  83% (5/6)Writing objects: 100% (6/6)Writing objects: 100% (6/6), 2.25 KiB | 288.00 KiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+remote: This repository moved. Please use the new location:[K
+remote:   git@github.com:sami-elsaeyed/CISC3142.git[K
+To github.com:sami-elsaeyed/cisc3142.git
+   6689da5..fabba38  main -> main
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ ls[K[Kcd Ex-3
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-3[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-3[00m$ ls
+Task
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-3[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-3[00m$ lscd Ex-3git push commit -m Task1[K[4Padd *[4Pcd ..[3Plsvim Task 1.md[Ckd
+2 files to edit
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;30r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[30;1H"Task" 2L, 32C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;2H# heading
+ ## another heading
+[94m~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [m[30;103H2,19[10CAll[2;19H[?25h[?25l[30;93H^[[2;19H[30;93H  [2;19H[30;93H^[[2;19H[30;93H  [2;19H[?25h[?25l[30;93H^[[2;19H[30;93H  [2;19H[30;93H^[[2;19H[30;93H  [2;19H[?25h[?25l[30;93H:[2;19H[30;1H[K[30;1H:[?2004h[?25hwq![?25l[?2004l"Task" 2L, 32C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-3[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-3[00m$ ls
+Task
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-3[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-3[00m$ git add 
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-3[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-3[00m$ git add *
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-3[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-3[00m$ git commit -m Task1
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    ../HW1[m
+	[31mdeleted:    ../HW1 Task One.txt[m
+	[31mdeleted:    ../README.md[m
+	[31mdeleted:    ../script-2022-09-07.log[m
+	[31mmodified:   ../script-linux-2022-09-21.log[m
+	[31mmodified:   ../time-2022-09-21.txt[m
+	[31mdeleted:    ../time-F.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-3[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-3[00m$ git commit -m Task1[10Padd *
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-3[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-3[00m$ git add *[K[K[K[K[K[K[K[K[Kcd ..
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m
