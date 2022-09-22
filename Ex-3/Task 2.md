@@ -2,7 +2,7 @@
 
 *This is how to make italic text*
 
-~~This is how to strikethrough text~~~
+~~This is how to strikethrough text~~
 ```
 write code
 like this 
