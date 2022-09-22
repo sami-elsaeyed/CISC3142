@@ -8,11 +8,11 @@ write code
 like this 
 three backticks
 ```
-([inline link])
--list
--items
--like this
-  -nest
-  -them
+[inline link](google.com)
+- list
+- items
+- like this
+  - nest
+  - them
 
 
