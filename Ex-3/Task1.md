@@ -1,9 +1,9 @@
 **Exercise 2.1: What are the differences between int, long, long long,
 and short? Between an unsigned and a signed type? Between a float and
 a double**
-	- a)Difference between these types is the minimum size. Short and int are 16 bits long is 32 buts and long long is 64 bits.
-	- b)A signed type represents negative or positive numbers  while an unsigned type represents only values greater than or equal to zero.
-	- c)Float has 6  significant digits while doubles have 10 significant digits. 
+- a)Difference between these types is the minimum size. Short and int are 16 bits long is 32 buts and long long is 64 bits.	
+- b)A signed type represents negative or positive numbers  while an unsigned type represents only values greater than or equal to zero.
+- c)Float has 6  significant digits while doubles have 10 significant digits. 
 
 **Exercise 2.2: To calculate a mortgage payment, what types would you use for the rate, principal, and payment? Explain why you selected each type.**
 	I would set the principal as an integer since houses prices dont usually differ by amounts less than dollar. Float is good enough for the rate since it is 	   typically two numbers after the decimal point and the payment calculation should be a double to be safe incase we exceed the float precision.
