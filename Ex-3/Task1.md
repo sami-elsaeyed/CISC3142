@@ -40,3 +40,22 @@ Global and local strings are intially the empty string. Global integer is initia
 **Exercise 2.14: Is the following program legal? If so, what values are printed?**
 	Program is legal and prints: 100 45
 
+**Exercise 2.17: What does the following code print?**
+Code prints out ``` 10 10 ```. 'ri' references i so when it is set to 10 'i' is 10 as well.
+
+**Exercise 2.27: Which of the following initializations are legal? Explain why.**
+- (a) ```int i = -1, &r = 0;```
+	Invalid, initilized to a value.
+- (b) ```int *const p2 = &i2;```
+	Valid if i2 is declared in this scope. Else invalid
+- (c) ```const int i = -1, &r = 0;```
+- 	Valid.
+- (d) ```const int *const p3 = &i2;```
+	Valid if i2 is declared before hand.Else invalid
+- (e)``` const int *p1 = &i2;```
+	Valid if i2 is declared before hand. Else invalid.
+- (f) ```const int &const r2;```
+	Invalid, reference not initialized.
+- (g) ```const int i2 = i, &r = i;```
+	Valid if is declared before hande. Else invalid.
+	
