@@ -59,3 +59,14 @@ Code prints out ``` 10 10 ```. 'ri' references i so when it is set to 10 'i' is 
 - (g) ```const int i2 = i, &r = i;```
 	Valid if is declared before hande. Else invalid.
 	
+**Exercise 2.28: Explain the following definitions. Identify any that are illegal.**
+- (a) int i, *const cp;
+	Invalid, const must be initialized.
+- (b) int *p1, *const p2;
+	Invalid, const must be initialized.
+- (c) const int ic, &r = ic;
+	Invalid, const must be initialized.
+- (d) const int *const p3;
+	Invalid, const must be initialized.
+- (e) const int *p;
+	Valid.
