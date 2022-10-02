@@ -8,8 +8,6 @@ using std::endl;
 int main(){
 	double sweet_ratio= 0.001;
 	double mouse_ratio= 0.14285714285;
-	cout << mouse_ratio<< endl;
-	cout << sweet_ratio << endl;
 	cout << "Enter anything to begin calculation, enter -1 to terminate";
 	string str;
 	cin >> str;
@@ -18,9 +16,7 @@ int main(){
 		cout << "Enter your goal_weight: ";
 		cin >> weight;
 		weight=weight*454;
-		cout << weight << endl;
 		total_sweetner=weight*mouse_ratio;
-		cout << total_sweetner << endl;
 		total_soda=total_sweetner*sweet_ratio;
 		cout << "Most amount of soda to drink safely: "<< total_soda<< endl;
 		cout << "Enter anything to begin calculation, enter -1 to terminate";
