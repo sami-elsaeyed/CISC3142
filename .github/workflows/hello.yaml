@@ -1,0 +1,12 @@
+name: Hello World
+on : [push]
+Jobs:
+        HelloWorld:
+                runs-on: ubuntu
+                steps:
+                        -run: echo "Running Makefile"
+                        -name: create prog
+                        -run: g++ hello.cpp
+                        -run: ./a.out
+
+        
