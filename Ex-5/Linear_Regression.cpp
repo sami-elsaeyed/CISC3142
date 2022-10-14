@@ -13,7 +13,7 @@ double mean(vector<int> x){
 	return mean;
 }
 int main(){
-	std::ifstream infile("Coordinates.txt");
+	std::ifstream infile("./Ex-5/Coordinates.txt");
 	int x; int y;
 	vector<int> x_coord={};
 	vector<int> y_coord={};

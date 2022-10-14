@@ -28,3 +28,10 @@ lab4:
 	./Task3
 	./Task4
 	./Task5
+lab5:
+	g++ Ex-5/Sum_of_Digits.cpp -o Sum_of_Digits
+	g++ Ex-5/Prime_Numbers.cpp -o Prime_Numbers
+	g++ Ex-5/Linear_Regression.cpp -o Linear_Regression
+	./Sum_of_Digits
+	./Prime_Numbers
+	./Linear_Regression
