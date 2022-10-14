@@ -4,7 +4,8 @@
 - 30/3*21%5= 0
 - -30/3*21%4=-2
 
-**Exercise 4.17 Describe the difference between prefix and postfix increment**
+**Exercise 4.17 Describe the difference between prefix and postfix increment**  
+
 	Prefix increments the operand and returns the changed version. Postfix increment returns the operand unchanged and then increments it.
 
 **Exercise 4.34 Explain the conversion taking place**
