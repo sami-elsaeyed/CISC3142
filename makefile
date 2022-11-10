@@ -35,3 +35,9 @@ lab5:
 	./Sum_of_Digits
 	./Prime_Numbers
 	./Linear_Regression
+lab7:
+	g++ Ex-7/Rectangle.cpp -o Rectangle
+	g++ Ex-7/Constructors.cpp -o Constructors 
+	./Rectangle
+	./Constructors
+
