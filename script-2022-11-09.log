@@ -1,4 +1,6 @@
-Script started on 2022-11-09 20:00:51-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="27"]
+Script started on 2022-11-09 20:00:18-05:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="27"]
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-7[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-7[00m$ script endrecord[C[C[C[Cend[K[1Plscd cisc3142/ls[Kcd cisc3142/ls[Kendrecord endscript[C[C[C[C[Kscript endrecord[C[C[C[Cend[K[1Plscd cisc3142/ls[Kcd 3142C++/dir[K[1Plscd Ex-5ls[Kdircd 3142C++/ls[Kcd cisc3142/ls[Kendrecord endscript[C[C[C[C[Kcd /[K..
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ cd ..script endrecord[C[C[C[Cend[K[1Plsendrecord endscript[C[C[C[C[5Pcd ..[Kcd ..script endrecord[C[C[C[Cend[K[1Plscd cisc3142/ls[Kcd 3142C++/dir[K[1Plscd Ex-56ls[Krm end[4Plsexitscript end[6Pexitscript --t=time-$(date +%F).txt -q -a script-$(date +%F).log[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push[Kscript --t=time-$(date +%F).txt -q -a script-$(date +%F).log
 ]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ cd Ex-7
 ]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-7[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-7[00m$ script end
 Script started, file is end
@@ -327,4 +329,136 @@ exit
 Script done, file is done
 ]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-7[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-7[00m$ cd ..
 ]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ git add *[KEx-7
-]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32m
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ git add E[K[K[K[K[K[K[K[K[Kgit add *
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ git commit -m Ex-7
+[main f7c69a0] Ex-7
+ 18 files changed, 6534 insertions(+), 1 deletion(-)
+ create mode 100755 Ex-5/Prime_Numbers
+ create mode 100755 Ex-5/Sum_of_Digits
+ create mode 100644 Ex-7/1
+ create mode 100755 Ex-7/Constructors
+ create mode 100644 Ex-7/Constructors.cpp
+ create mode 100755 Ex-7/Rectangle
+ create mode 100644 Ex-7/Rectangle.cpp
+ create mode 100644 Ex-7/Struct.md
+ create mode 100644 Ex-7/done
+ create mode 100644 Ex-7/end
+ create mode 100644 Ex-7/script-2022-11-09.log
+ create mode 100644 Ex-7/time-2022-11-09.txt
+ create mode 100644 script-2022-10-19.log
+ create mode 100644 script-2022-11-09.log
+ create mode 100644 time-2022-10-19.txt
+ create mode 100644 time-2022-11-09.txt
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ rm [K[K[Kgit push 
+Enter passphrase for key '/home/sami/.ssh/id_ed25519': 
+Enter passphrase for key '/home/sami/.ssh/id_ed25519': 
+Enter passphrase for key '/home/sami/.ssh/id_ed25519': 
+Enumerating objects: 26, done.
+Counting objects:   3% (1/26)Counting objects:   7% (2/26)Counting objects:  11% (3/26)Counting objects:  15% (4/26)Counting objects:  19% (5/26)Counting objects:  23% (6/26)Counting objects:  26% (7/26)Counting objects:  30% (8/26)Counting objects:  34% (9/26)Counting objects:  38% (10/26)Counting objects:  42% (11/26)Counting objects:  46% (12/26)Counting objects:  50% (13/26)Counting objects:  53% (14/26)Counting objects:  57% (15/26)Counting objects:  61% (16/26)Counting objects:  65% (17/26)Counting objects:  69% (18/26)Counting objects:  73% (19/26)Counting objects:  76% (20/26)Counting objects:  80% (21/26)Counting objects:  84% (22/26)Counting objects:  88% (23/26)Counting objects:  92% (24/26)Counting objects:  96% (25/26)Counting objects: 100% (26/26)Counting objects: 100% (26/26), done.
+Delta compression using up to 4 threads
+Compressing objects:   4% (1/22)Compressing objects:   9% (2/22)Compressing objects:  13% (3/22)Compressing objects:  18% (4/22)Compressing objects:  22% (5/22)Compressing objects:  27% (6/22)Compressing objects:  31% (7/22)Compressing objects:  36% (8/22)Compressing objects:  40% (9/22)Compressing objects:  45% (10/22)Compressing objects:  50% (11/22)Compressing objects:  54% (12/22)Compressing objects:  59% (13/22)Compressing objects:  63% (14/22)Compressing objects:  68% (15/22)Compressing objects:  72% (16/22)Compressing objects:  77% (17/22)Compressing objects:  81% (18/22)Compressing objects:  86% (19/22)Compressing objects:  90% (20/22)Compressing objects:  95% (21/22)Compressing objects: 100% (22/22)Compressing objects: 100% (22/22), done.
+Writing objects:   4% (1/22)Writing objects:   9% (2/22)Writing objects:  13% (3/22)Writing objects:  18% (4/22)Writing objects:  27% (6/22)Writing objects:  31% (7/22)Writing objects:  36% (8/22)Writing objects:  40% (9/22)Writing objects:  45% (10/22)Writing objects:  50% (11/22)Writing objects:  54% (12/22)Writing objects:  63% (14/22)Writing objects:  68% (15/22)Writing objects:  72% (16/22)Writing objects:  77% (17/22)Writing objects:  81% (18/22)Writing objects:  86% (19/22)Writing objects:  90% (20/22)Writing objects:  95% (21/22)Writing objects: 100% (22/22)Writing objects: 100% (22/22), 57.06 KiB | 3.17 MiB/s, done.
+Total 22 (delta 9), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/9)[Kremote: Resolving deltas:  11% (1/9)[Kremote: Resolving deltas:  22% (2/9)[Kremote: Resolving deltas:  33% (3/9)[Kremote: Resolving deltas:  44% (4/9)[Kremote: Resolving deltas:  55% (5/9)[Kremote: Resolving deltas:  66% (6/9)[Kremote: Resolving deltas:  77% (7/9)[Kremote: Resolving deltas:  88% (8/9)[Kremote: Resolving deltas: 100% (9/9)[Kremote: Resolving deltas: 100% (9/9), completed with 4 local objects.[K
+remote: This repository moved. Please use the new location:[K
+remote:   git@github.com:sami-elsaeyed/CISC3142.git[K
+To github.com:sami-elsaeyed/cisc3142.git
+   7fb9d9d..f7c69a0  main -> main
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ cd [K[K[Kls
+ [0m[01;34mEx-1[0m           [01;32mExercise1-11-2[0m       README.md                     time-2022-09-21.txt
+ [01;34mEx-2[0m           Exercise1-11-2.cpp   makefile                      time-2022-10-14.txt
+ [01;34mEx-3[0m           Exercise1-11.cpp     script-2022-09-07.log         time-2022-10-19.txt
+ [01;34mEx-4[0m           [01;32mExercise1-5[0m          script-2022-10-14.log         time-2022-11-09.txt
+ [01;34mEx-5[0m           Exercise1-5.cpp      script-2022-10-19.log         time-F.txt
+ [01;34mEx-7[0m           [01;32mHW1[0m                  script-2022-11-09.log         w
+ [01;32mExercise1-11[0m  'HW1 Task One.txt'    script-linux-2022-09-21.log
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ vim makefiel[K[Kle
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;36r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[36;1H"makefile" 37L, 868C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[36mExercise1-11-2:[m Exercise1-11-2.cpp
+[31m        g++ Exercise1-11-2.cpp -o Exercise1-11-2
+        g++ Exercise1-5.cpp -o Exercise1-5
+        g++ Exercise1-11.cpp -o Exercise1-11[m
+[36mExercise1-11:[m Exercise1-11.cpp
+[31m        g++ Exercise1-11.cpp -o Exercise1-11[m
+
+[36mExercise1-5:[m Exercise1-5.cpp
+[31m        g++ Exercise1-5.cpp -o Exercise1-5[m
+
+[36mlab2:[m
+[31m        g++ Exercise1-5.cpp -o Exercise1-5
+        g++ Exercise1-11.cpp -o Exercise1-11
+        g++ Exercise1-11-2.cpp -o Exercise1-11-2
+        ./Exercise1-5
+        ./Exercise1-11
+        ./Exercise1-11-2[m
+[36mlab4:[m
+[31m        g++ Ex-4/Task1.cpp -o Task1
+        g++ Ex-4/Task2.cpp -o Task2
+        g++ Ex-4/Task3.cpp -o Task3
+        g++ Ex-4/Task4.cpp -o Task4
+        g++ Ex-4/Task5.cpp -o Task5
+        ./Task1
+        ./Task2
+        ./Task3
+        ./Task4
+        ./Task5[m
+[36mlab5:[m
+[31m        g++ Ex-5/Sum_of_Digits.cpp -o Sum_of_Digits
+        g++ Ex-5/Prime_Numbers.cpp -o Prime_Numbers
+        g++ Ex-5/Linear_Regression.cpp -o Linear_Regression
+        ./Sum_of_Digits
+        ./Prime_Numbers
+        ./Linear_Regression[m[36;75H37,20-27      Bot[35;27H[?25h[?25l[36;65H~@k[35;27H[36;65H   [35;27H[?25h[?25l[36;65Hi[35;27H[36;65H [35;27H
+[1m-- INSERT --[m[36;13H[K[36;75H37,20-27      Bot[35;27H[?25h[?25l[36;79H1-28[35;28H[?25h[?25l[1;35r[35;1H
+[1;36r[35;1H[31m        [m[36;75H[K[36;75H38,2-9[8CBot[35;9H[?25h[?25l[35;1H[K[36;78H1  [35;1H[?25h[?25ll[36;78H2[35;2H[?25h[?25la[36;78H3[35;3H[?25h[?25lb[36;78H4[35;4H[?25h[?25l7[36;78H5[35;5H[?25h[?25l[36mlab7:[m[36;78H6[35;6H[?25h[?25l[1;35r[35;1H
+[1;36r[35;1H[31m        [m[36;75H[K[36;75H39,2-9[8CBot[35;9H[?25h[?25l[31mg[m[36;78H3-10[35;10H[?25h[?25l[31m+[m[36;78H4-11[35;11H[?25h[?25l[31m+[m[36;78H5-12[35;12H[?25h[?25l[31m [m[36;78H6-13[35;13H[?25h[?25l[35;12H[K[36;78H5-12[35;12H[?25h[?25l[35;11H[K[36;78H4-11[35;11H[?25h[?25l[35;10H[K[36;78H3-10[35;10H[?25h[?25l[35;9H[K[36;78H2-9 [35;9H[?25h[?25l[35;1H[K[36;78H1  [35;1H[?25h[?25l[31m        [m[36;78H2-9[35;9H[?25h[?25l[31mg[m[36;78H3-10[35;10H[?25h[?25l[31m+[m[36;78H4-11[35;11H[?25h[?25l[31m+[m[36;78H5-12[35;12H[?25h[?25l[31m [m[36;78H6-13[35;13H[?25h[?25l[31mE[m[36;78H7-14[35;14H[?25h[?25l[31mx[m[36;78H8-15[35;15H[?25h[?25l[31m-[m[36;78H9-16[35;16H[?25h[?25l[31m7[m[36;78H10-17[35;17H[?25h[?25l[31m/[m[36;79H1-18[35;18H[?25h[?25l[31m       [m[36;79H2-25[35;25H[?25h[?25l[35;18H[K[36;79H1-18[35;18H[?25h[?25l[31mR[m[36;79H2-19[35;19H[?25h[?25l[31me[m[36;79H3-20[35;20H[?25h[?25l[31mc[m[36;79H4-21[35;21H[?25h[?25l[31mt[m[36;79H5-22[35;22H[?25h[?25l[31ma[m[36;79H6-23[35;23H[?25h[?25l[31mn[m[36;79H7-24[35;24H[?25h[?25l[31mf[m[36;79H8-25[35;25H[?25h[?25l[31ml[m[36;79H9-26[35;26H[?25h[?25l[35;25H[K[36;79H8-25[35;25H[?25h[?25l[35;24H[K[36;79H7-24[35;24H[?25h[?25l[31mg[m[36;79H8-25[35;25H[?25h[?25l[31ml[m[36;79H9-26[35;26H[?25h[?25l[31me[m[36;78H20-27[35;27H[?25h[?25l[31m.[m[36;79H1-28[35;28H[?25h[?25l[31mc[m[36;79H2-29[35;29H[?25h[?25l[31mp[m[36;79H3-30[35;30H[?25h[?25l[31mp[m[36;79H4-31[35;31H[?25h[?25l[31m [m[36;79H5-32[35;32H[?25h[?25l[31m-[m[36;79H6-33[35;33H[?25h[?25l[31mo[m[36;79H7-34[35;34H[?25h[?25l[31m [m[36;79H8-35[35;35H[?25h[?25l[31mR[m[36;79H9-36[35;36H[?25h[?25l[31me[m[36;78H30-37[35;37H[?25h[?25l[31mc[m[36;79H1-38[35;38H[?25h[?25l[31mt[m[36;79H2-39[35;39H[?25h[?25l[31ma[m[36;79H3-40[35;40H[?25h[?25l[31mn[m[36;79H4-41[35;41H[?25h[?25l[31mg[m[36;79H5-42[35;42H[?25h[?25l[31ml[m[36;79H6-43[35;43H[?25h[?25l[31me[m[36;79H7-44[35;44H[?25h[?25l[1;35r[35;1H
+[1;36r[35;1H[31m        [m[36;75H[K[36;75H40,2-9[8CBot[35;9H[?25h[?25l[31mg[m[36;78H3-10[35;10H[?25h[?25l[31m+[m[36;78H4-11[35;11H[?25h[?25l[31m+[m[36;78H5-12[35;12H[?25h[?25l[31m [m[36;78H6-13[35;13H[?25h[?25l[31mE[m[36;78H7-14[35;14H[?25h[?25l[31mx[m[36;78H8-15[35;15H[?25h[?25l[31m-[m[36;78H9-16[35;16H[?25h[?25l[31m7[m[36;78H10-17[35;17H[?25h[?25l[31m/[m[36;79H1-18[35;18H[?25h[?25l[31mR[m[36;79H2-19[35;19H[?25h[?25l[35;18H[K[36;79H1-18[35;18H[?25h[?25l[31mC[m[36;79H2-19[35;19H[?25h[?25l[31mo[m[36;79H3-20[35;20H[?25h[?25l[31mn[m[36;79H4-21[35;21H[?25h[?25l[31ms[m[36;79H5-22[35;22H[?25h[?25l[31mt[m[36;79H6-23[35;23H[?25h[?25l[31mr[m[36;79H7-24[35;24H[?25h[?25l[31mu[m[36;79H8-25[35;25H[?25h[?25l[31mc[m[36;79H9-26[35;26H[?25h[?25l[31mt[m[36;78H20-27[35;27H[?25h[?25l[31mo[m[36;79H1-28[35;28H[?25h[?25l[31mr[m[36;79H2-29[35;29H[?25h[?25l[31ms[m[36;79H3-30[35;30H[?25h[?25l[31m.[m[36;79H4-31[35;31H[?25h[?25l[31mc[m[36;79H5-32[35;32H[?25h[?25l[31mp[m[36;79H6-33[35;33H[?25h[?25l[31mp[m[36;79H7-34[35;34H[?25h[?25l[31m [m[36;79H8-35[35;35H[?25h[?25l[31m-[m[36;79H9-36[35;36H[?25h[?25l[31mo[m[36;78H30-37[35;37H[?25h[?25l[31m [m[36;79H1-38[35;38H[?25h[?25l[31mC[m[36;79H2-39[35;39H[?25h[?25l[31mo[m[36;79H3-40[35;40H[?25h[?25l[31mn[m[36;79H4-41[35;41H[?25h[?25l[31ms[m[36;79H5-42[35;42H[?25h[?25l[31mt[m[36;79H6-43[35;43H[?25h[?25l[31mr[m[36;79H7-44[35;44H[?25h[?25l[31mu[m[36;79H8-45[35;45H[?25h[?25l[31mc[m[36;79H9-46[35;46H[?25h[?25l[31mt[m[36;78H40-47[35;47H[?25h[?25l[31mo[m[36;79H1-48[35;48H[?25h[?25l[31mr[m[36;79H2-49[35;49H[?25h[?25l[31ms[m[36;79H3-50[35;50H[?25h[?25l[31m [m[36;79H4-51[35;51H[?25h[?25l[1;35r[35;1H
+[1;36r[35;1H[31m        [m[36;75H[K[36;75H41,2-9[8CBot[35;9H[?25h[?25l[31m.[m[36;78H3-10[35;10H[?25h[?25l[31m/[m[36;78H4-11[35;11H[?25h[?25l[31mR[m[36;78H5-12[35;12H[?25h[?25l[31me[m[36;78H6-13[35;13H[?25h[?25l[31mc[m[36;78H7-14[35;14H[?25h[?25l[31mt[m[36;78H8-15[35;15H[?25h[?25l[31ma[m[36;78H9-16[35;16H[?25h[?25l[31mn[m[36;78H10-17[35;17H[?25h[?25l[31mg[m[36;79H1-18[35;18H[?25h[?25l[31ml[m[36;79H2-19[35;19H[?25h[?25l[31me[m[36;79H3-20[35;20H[?25h[?25l[1;35r[35;1H
+[1;36r[35;1H[31m        [m[36;75H[K[36;75H42,2-9[8CBot[35;9H[?25h[?25l[31m.[m[36;78H3-10[35;10H[?25h[?25l[31m/[m[36;78H4-11[35;11H[?25h[?25l[31mC[m[36;78H5-12[35;12H[?25h[?25l[31mo[m[36;78H6-13[35;13H[?25h[?25l[31mn[m[36;78H7-14[35;14H[?25h[?25l[31ms[m[36;78H8-15[35;15H[?25h[?25l[31mt[m[36;78H9-16[35;16H[?25h[?25l[31mr[m[36;78H10-17[35;17H[?25h[?25l[31mu[m[36;79H1-18[35;18H[?25h[?25l[31mc[m[36;79H2-19[35;19H[?25h[?25l[31mt[m[36;79H3-20[35;20H[?25h[?25l[31mo[m[36;79H4-21[35;21H[?25h[?25l[31mr[m[36;79H5-22[35;22H[?25h[?25l[31ms[m[36;79H6-23[35;23H[?25h[?25l[1;35r[35;1H
+[1;36r[35;1H[31m        [m[36;75H[K[36;75H43,2-9[8CBot[35;9H[?25h[36;1H[K[35;1H[?25l[36;65H^[[35;1H[36;65H  [35;9H[35;1H[K[36;75H43,0-1[8CBot[35;1H[?25h[?25l[36;65H:[35;1H[36;65H[K[36;1H:[?2004h[?25hWq![?25l[97m[41mE492: Not an editor command: Wq![35;1H[m[36;75H43,0-1[8CBot[35;1H[?25h[?25l[36;65H^[[35;1H[36;65H  [35;1H[36;65H^[[35;1H[36;65H  [35;1H[?25h[?25l[36;65H:[35;1H[36;1H[K[36;1H:[?2004h[?25hwq![?25l[?2004l"makefile" 43L, 985C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ mk[Kake lab7
+g++ Ex-7/Rectangle.cpp -o Rectangle
+g++ Ex-7/Constructors.cpp -o Constructors 
+./Rectangle
+ Rectangle 1 has an area of 12.5 and a perimeter of 15
+The length of the Rectangle is 5
+The width of the Rectangle is 2.5
+ Rectangle 2 has an area of 94.5 and a perimeter of 47.8
+The length of the Rectangle is 5
+The width of the Rectangle is 18.9
+The rectangles do not have the same areaNew area for rectangle one is 94.5 and its perimeter is42.6
+The length of the Rectangle is 15
+The width of the Rectangle is 6.3
+ Both rectangles have the same area./Constructors
+0 0
+5 0
+3 4
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ gg[Kit add makefile
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ git commit -m make [Kfile
+[main a5024cc] makefile
+ 1 file changed, 6 insertions(+)
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ git push 
+Enter passphrase for key '/home/sami/.ssh/id_ed25519': 
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 349 bytes | 174.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+remote: This repository moved. Please use the new location:[K
+remote:   git@github.com:sami-elsaeyed/CISC3142.git[K
+To github.com:sami-elsaeyed/cisc3142.git
+   f7c69a0..a5024cc  main -> main
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ git[K[K[Kcd git [K[K[K[Klab-7
+bash: cd: lab-7: No such file or directory
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ cd lab-7[1P-7[1P-7[1P-7E-7x-7
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-7[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-7[00m$ ls
+1             Constructors.cpp  Rectangle.cpp  done  script-2022-11-09.log
+[0m[01;32mConstructors[0m  [01;32mRectangle[0m         Struct.md      end   time-2022-11-09.txt
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-7[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-7[00m$ rm end 
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-7[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-7[00m$ er[K[Krm done
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-7[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-7[00m$ mv script-2022-11-09.log ../
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-7[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-7[00m$ mv script-2022-11-09.log ../[C[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../[1P ../t ../i ../m ../e ../[C ../[1P../-2022-11-09.txt ../
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-7[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142/Ex-7[00m$ ls
+1  [0m[01;32mConstructors[0m  Constructors.cpp  [01;32mRectangle[0m  Rectangle.cpp  Struct.md
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142/Ex-7[01;32msami@DESKTOP-SAMI[00m:[0
