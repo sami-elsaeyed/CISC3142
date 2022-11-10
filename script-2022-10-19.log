@@ -1,0 +1,10 @@
+Script started on 2022-10-19 18:35:56-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ script --t=time-$(date +%F).txt -q -a script-$(date +%F).log[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push[Kscript --t=time-$(date +%F).txt -q -a script-$(date +%F).lo[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push[Kscript --t=time-$(date +%F).txt -q -a script-$(date +%F).lo[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kscript --t=time-$(date +%F).txt -q -a script-$(date +%F).lo[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push[Kcommit -m organizepush[Kscript --t=time-$(date +%F).txt -q -a script-$(date +%F).lo[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kscript end
+Script started, file is end
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ exit
+exit
+Script done, file is end
+]0;sami@DESKTOP-SAMI: ~/3142C++/cisc3142[01;32msami@DESKTOP-SAMI[00m:[01;34m~/3142C++/cisc3142[00m$ exit
+exit
+
+Script done on 2022-10-19 18:40:55-04:00 [COMMAND_EXIT_CODE="0"]
