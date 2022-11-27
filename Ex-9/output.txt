@@ -1,0 +1,17 @@
+The average temperature is: 64.7778
+The moving averages from months March to September are:
+43.6667
+50.6667
+60.3333
+70
+78.3333
+81.6667
+80.6667
+The weighted moving averages from March to September are: 
+45.5
+53.6667
+63.8333
+73.1667
+80.6667
+82
+79.1667
